@@ -1,0 +1,7 @@
+{
+  "name": "St. Jude Metropolitan Hospital Management System",
+  "description": "Enterprise-grade hospital management system for patient administration, clinical appointments, emergency triage, pharmacy, laboratory, IPD/OPD, billing, and departmental operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
